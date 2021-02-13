@@ -1,0 +1,139 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AD5685R?RUZ
+D Dual, 14-Bit nanoDAC+ with SPI Interface, 2ppmC ref, TSSOP-16
+K dac 4nch 14bit spi
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ad5686r_5685r_5684r.pdf
+$ENDCMP
+#
+$CMP ATSAMD21G18A-A
+D SAM D21 Microchip SMART ARM-based Flash MCU, 48Mhz, 256K Flash, 32K SRAM, TQFP-48
+K arm cortem m0+ samd21
+F http://ww1.microchip.com/downloads/en/DeviceDoc/SAM_D21_DA1_Family_Data%20Sheet_DS40001882E.pdf
+$ENDCMP
+#
+$CMP ATSAMD51J20A-A
+D 32-bit ARM Cortex M4F 120MHz 1024 kB flash, 256 kB RAM
+K arm sam samd
+F https://ww1.microchip.com/downloads/en/DeviceDoc/SAM_D5x_E5x_Family_Data_Sheet_DS60001507G.pdf
+$ENDCMP
+#
+$CMP ATSAMD51J20A-M
+D 32-bit ARM Cortex M4F 120MHz 1024 kB flash, 256 kB RAM
+K arm sam samd
+F https://ww1.microchip.com/downloads/en/DeviceDoc/SAM_D5x_E5x_Family_Data_Sheet_DS60001507G.pdf
+$ENDCMP
+#
+$CMP Dotstar
+D 5050 Dotstar RGB LED with integrated controller SK9822 APA102
+K RGB LED addressable 8bit pwm 5bit greyscale dotstar SK9822 APA101
+F https://www.alibaba.com/product-detail/High-Efficiency-SK9822-Similar-APA102-5050_62326807400.html
+$ENDCMP
+#
+$CMP Eurorack_Mono_Jack
+D Eurorack vertical jack, 2 Poles (Mono / TS), Switched T Pole (Normalling)
+K audio jack receptacle mono headphones phone TS connector eurorack
+F http://www.qingpu-electronics.com/en/products/WQP-PJ398SM-362.html
+$ENDCMP
+#
+$CMP Eurorack_Pot
+D Potentiometer, Eurorack, mini pot
+K resistor variable eurorack mini pot
+F https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c2e29654-9937-4f21-ad37-19aeb30b6cf7/R0904N%28KQ%29-LWS.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210212%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210212T061200Z&X-Amz-Expires=86400&X-Amz-Signature=79cad3de6b24b7023aa449b148ed3570970ec3161da0e13127712a5cd74fcd34&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22R0904N%28KQ%29-LWS.pdf%22
+$ENDCMP
+#
+$CMP Eurorack_Power
+D Shrouded, keyed, Eurorack power header, 02x05, 2.54mm spacing
+K eurorack power
+F https://static6.arrow.com/aropdfconversion/1507f1621f4e67855dd466ebb3ac550d52564a9d/32302-sxx1.pdf
+$ENDCMP
+#
+$CMP GD25Q64CWIGR
+D QSPI Flash 8MB, QFN/WSON
+F http://www.gigadevice.com/datasheet/gd25q64c/
+$ENDCMP
+#
+$CMP LM1117-3.3
+D 800mA Low-Dropout Linear Regulator, 1.8V fixed output, TO-220/TO-252/TO-263/SOT-223
+K linear regulator ldo fixed positive
+F http://www.ti.com/lit/ds/symlink/lm1117.pdf
+$ENDCMP
+#
+$CMP LM4040-10
+D 10V Precision Micropower Shunt Voltage Reference, SOT-23
+K diode device voltage reference shunt
+F http://www.ti.com/lit/ds/symlink/lm4040-n.pdf
+$ENDCMP
+#
+$CMP MCP4728
+D 12-bit digital to analog converter, quad output, 2.048V internal reference, integrated EEPROM, I2C interface
+K dac i2c
+F http://ww1.microchip.com/downloads/en/DeviceDoc/22187E.pdf
+$ENDCMP
+#
+$CMP MCP6001-OT
+D 10 MHz, 850 µA Op Amps, SOT-23-5, 3.3v
+K single opamp single supply analog front end
+F http://ww1.microchip.com/downloads/en/DeviceDoc/22141b.pdf
+$ENDCMP
+#
+$CMP MCP6002
+D Dual, 1 Mhz, low-power, single supply, rail-to-rail, operational amplifier
+K dual opamp
+F https://ww1.microchip.com/downloads/en/DeviceDoc/MCP6001-1R-1U-2-4-1-MHz-Low-Power-Op-Amp-DS20001733L.pdf
+$ENDCMP
+#
+$CMP MCP6004
+D Low-Power, Quad-Operational Amplifiers, TSSOP-14
+K quad opamp analog front end
+F http://datasheet.octopart.com/MCP6001T-I/OT-Microchip-datasheet-8823409.pdf
+$ENDCMP
+#
+$CMP OPA4197
+D Quad, 36v, precision, rail-to-rail, low noise, low drift, low offset, operational amplifier, 1nF capacitive load drive, TSSOP-14
+K op amp quad precision
+F https://www.ti.com/lit/ds/symlink/opa4197.pdf
+$ENDCMP
+#
+$CMP TL074
+D Low-Power, Quad-Operational Amplifiers, TSSOP-14
+K quad opamp analog front end
+F https://www.ti.com/lit/ds/symlink/tl071.pdf
+$ENDCMP
+#
+$CMP TLV76733
+D 1A, 16v input, 3.3v output precision linear voltage regulator
+F https://www.ti.com/lit/ds/symlink/tlv767.pdf
+$ENDCMP
+#
+$CMP TPD2EUSB30A
+D 2-Channel ESD Protection for Super-Speed USB 3.0 Interface, DRT-3
+K ESD protection USB 3.0
+F http://www.ti.com/lit/ds/symlink/tpd2eusb30a.pdf
+$ENDCMP
+#
+$CMP Tactile_Switch
+D Tactile switch - 4.2mm or 6mm. macrofab factory part
+K switch tact tactile macrofab
+F https://factory.macrofab.com/part/MF-SW-TACT-4.2MM
+$ENDCMP
+#
+$CMP Tag-Connect_SWD_TC2030
+D Tag-Connect SWD programming header
+K swd, tag-connect, cortex
+F https://www.tag-connect.com/product/tc2030-ctx-nl-6-pin-no-legs-cable-with-10-pin-micro-connector-for-cortex-processors~
+$ENDCMP
+#
+$CMP USB_B_Micro_Receptacle
+D Micro USB B receptacle, right-angle, macrofab factory part
+K usb b micro macrofab
+F https://factory.macrofab.com/part/MF-CON-MICROUSB-RIGHT
+$ENDCMP
+#
+$CMP USB_B_Receptacle
+D USB Type B receptacle, vertical
+K connector USB
+F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=5787834&DocType=Customer+Drawing&DocLang=English&PartCntxt=5787834-1&DocFormat=pdf
+$ENDCMP
+#
+#End Doc Library
