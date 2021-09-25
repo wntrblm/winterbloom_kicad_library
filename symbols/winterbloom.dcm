@@ -59,6 +59,12 @@ K diode device voltage reference shunt
 F http://www.ti.com/lit/ds/symlink/lm4040-n.pdf
 $ENDCMP
 #
+$CMP MAX9717B_C_D
+D Low cost, mono, 1.4W, BTL Audio Power Amplifier
+K audio amplifier class d
+F https://datasheets.maximintegrated.com/en/ds/MAX9716-MAX9717.pdf
+$ENDCMP
+#
 $CMP MCP4728
 D 12-bit digital to analog converter, quad output, 2.048V internal reference, integrated EEPROM, I2C interface
 K dac i2c
@@ -83,10 +89,32 @@ K quad opamp analog front end
 F http://datasheet.octopart.com/MCP6001T-I/OT-Microchip-datasheet-8823409.pdf
 $ENDCMP
 #
+$CMP MYRGC
+D 0.5A Inductor Built-in Step-down DC/DC Converter, 18V input, 1-15V output
+F https://www.mouser.com/datasheet/2/281/MYRGC-1701768.pdf
+$ENDCMP
+#
 $CMP OPA4197
 D Quad, 36v, precision, rail-to-rail, low noise, low drift, low offset, operational amplifier, 1nF capacitive load drive, TSSOP-14
 K op amp quad precision
 F https://www.ti.com/lit/ds/symlink/opa4197.pdf
+$ENDCMP
+#
+$CMP OPA4991
+D 40-V Rail-to-Rail Input/Output, Low Offset Voltage, Low Noise, Op Amp, TSSOP-14
+K op amp quad precision
+F https://www.ti.com/lit/ds/symlink/opa4991.pdf
+$ENDCMP
+#
+$CMP PAM8302AAS
+D 2.5W Filterless Class-D Mono Audio Amplifier, MSOP-8
+K audio amplifier class d
+F https://www.diodes.com/assets/Datasheets/PAM8302A.pdf
+$ENDCMP
+#
+$CMP SSM2604
+D Low Power Stereo Audio Codec
+F https://www.analog.com/media/en/technical-documentation/data-sheets/SSM2604.pdf
 $ENDCMP
 #
 $CMP TL074
