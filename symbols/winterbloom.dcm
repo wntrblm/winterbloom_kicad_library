@@ -6,6 +6,18 @@ K dac 4nch 14bit spi
 F https://www.analog.com/media/en/technical-documentation/data-sheets/ad5686r_5685r_5684r.pdf
 $ENDCMP
 #
+$CMP ADG1209
+D 4:1 2-channel multiplexer, ±15 V, 120 Ω Ron, <1 pC, TSSOP-14, LFCSP-16
+K analog switch selector multiplexer mux
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ADG1208_1209.pdf
+$ENDCMP
+#
+$CMP ADG1309
+D 4:1 2-channel precision multiplexer, ±15 V, 130 Ω Ron, TSSOP-14
+K analog switch selector multiplexer mux
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ADG1308_1309.pdf
+$ENDCMP
+#
 $CMP ATSAMD21G18A-A
 D SAM D21 Microchip SMART ARM-based Flash MCU, 48Mhz, 256K Flash, 32K SRAM, TQFP-48
 K arm cortem m0+ samd21
@@ -89,6 +101,12 @@ K quad opamp analog front end
 F http://datasheet.octopart.com/MCP6001T-I/OT-Microchip-datasheet-8823409.pdf
 $ENDCMP
 #
+$CMP MUX509
+D 4:1 2-channel low capacitance precision multiplexer, ±18 V, 125 Ω Ron, 0.3 pC, TSSOP-14
+K analog switch selector multiplexer mux
+F https://www.ti.com/lit/ds/symlink/mux509.pdf
+$ENDCMP
+#
 $CMP MYRGC
 D 0.5A Inductor Built-in Step-down DC/DC Converter, 18V input, 1-15V output
 F https://www.mouser.com/datasheet/2/281/MYRGC-1701768.pdf
@@ -126,6 +144,12 @@ $ENDCMP
 $CMP TLV76733
 D 1A, 16v input, 3.3v output precision linear voltage regulator
 F https://www.ti.com/lit/ds/symlink/tlv767.pdf
+$ENDCMP
+#
+$CMP TMUX6209
+D 4:1 2-channel precision multiplexer, ±18 V, 4 Ω Ron, 3 pC, TSSOP-14, WQFN-16
+K analog switch selector multiplexer mux
+F https://www.ti.com/lit/ds/symlink/tmux6209.pdf
 $ENDCMP
 #
 $CMP TPD2EUSB30A
