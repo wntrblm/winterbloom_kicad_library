@@ -113,6 +113,11 @@ K quad opamp analog front end
 F http://datasheet.octopart.com/MCP6001T-I/OT-Microchip-datasheet-8823409.pdf
 $ENDCMP
 #
+$CMP MPM3610
+D 21V Input, 1A Module Synchronous Step-down Converter with Integrated Inductor
+F https://www.monolithicpower.com/en/mpm3610.html
+$ENDCMP
+#
 $CMP MUX508
 D 8:1 low capacitance precision multiplexer, ±18 V, 125 Ω Ron, 0.3 pC, TSSOP-14
 K analog switch selector multiplexer mux
@@ -204,6 +209,11 @@ $CMP USB_B_Receptacle
 D USB Type B receptacle, vertical
 K connector USB
 F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=5787834&DocType=Customer+Drawing&DocLang=English&PartCntxt=5787834-1&DocFormat=pdf
+$ENDCMP
+#
+$CMP W25Q128JVSIQ
+D 128Mb (16MB) QSPI Flash, SOIC-8
+F https://www.winbond.com/resource-files/w25q128jv%20revf%2003272018%20plus.pdf
 $ENDCMP
 #
 #End Doc Library
