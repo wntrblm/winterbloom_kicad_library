@@ -989,7 +989,7 @@
     )
   )
   (symbol "Eurorack_Power" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
-    (property "Reference" "J" (id 0) (at -2.54 7.62 0)
+    (property "Reference" "J" (id 0) (at -0.635 7.62 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Eurorack_Power" (id 1) (at 0 -7.62 0)
@@ -1021,11 +1021,11 @@
         (name "-12V" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
       )
-      (pin power_out line (at 6.985 3.175 180) (length 3.81) hide
+      (pin passive line (at 6.985 3.175 180) (length 3.81) hide
         (name "+12V" (effects (font (size 1.27 1.27))))
         (number "10" (effects (font (size 1.27 1.27))))
       )
-      (pin power_out line (at 6.985 0 180) (length 3.81)
+      (pin passive line (at 6.985 0 180) (length 3.81)
         (name "-12V" (effects (font (size 1.27 1.27))))
         (number "2" (effects (font (size 1.27 1.27))))
       )
@@ -1033,23 +1033,23 @@
         (name "GND" (effects (font (size 1.27 1.27))))
         (number "3" (effects (font (size 1.27 1.27))))
       )
-      (pin power_out line (at 6.985 -3.175 180) (length 3.81) hide
+      (pin passive line (at 6.985 -3.175 180) (length 3.81) hide
         (name "GND" (effects (font (size 1.27 1.27))))
         (number "4" (effects (font (size 1.27 1.27))))
       )
-      (pin power_out line (at 6.985 -3.175 180) (length 3.81) hide
+      (pin passive line (at 6.985 -3.175 180) (length 3.81) hide
         (name "GND" (effects (font (size 1.27 1.27))))
         (number "5" (effects (font (size 1.27 1.27))))
       )
-      (pin power_out line (at 6.985 -3.175 180) (length 3.81) hide
+      (pin passive line (at 6.985 -3.175 180) (length 3.81) hide
         (name "GND" (effects (font (size 1.27 1.27))))
         (number "6" (effects (font (size 1.27 1.27))))
       )
-      (pin power_out line (at 6.985 -3.175 180) (length 3.81) hide
+      (pin passive line (at 6.985 -3.175 180) (length 3.81) hide
         (name "GND" (effects (font (size 1.27 1.27))))
         (number "7" (effects (font (size 1.27 1.27))))
       )
-      (pin power_out line (at 6.985 -3.175 180) (length 3.81) hide
+      (pin passive line (at 6.985 -3.175 180) (length 3.81) hide
         (name "GND" (effects (font (size 1.27 1.27))))
         (number "8" (effects (font (size 1.27 1.27))))
       )
