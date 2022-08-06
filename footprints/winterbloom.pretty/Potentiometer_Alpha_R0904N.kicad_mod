@@ -47,9 +47,14 @@
   (pad "1" thru_hole rect (at -2.5 7.5 180) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask) (tstamp ad9a91c8-d399-469e-80a1-6b6c81a92830))
   (pad "2" thru_hole circle (at 0 7.5 180) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask) (tstamp 498137a2-d4c9-4a5b-afe4-22a02227ea4b))
   (pad "3" thru_hole circle (at 2.5 7.5 180) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask) (tstamp cdac4c11-89dc-4466-932d-c5f61617624b))
-  (model "${WINTERBLOOM3DMOD}/Bourns_PTV09A-4X30U-xxxx.step"
-    (offset (xyz -0.005 -0.4 6.5))
+  (model "${WINTERBLOOM3DMOD}/Alpha-RD901F-40-15R1.step"
+    (offset (xyz 0 0 -0.5))
     (scale (xyz 1 1 1))
-    (rotate (xyz 90 0 180))
+    (rotate (xyz 0 0 0))
+  )
+  (model "${WINTERBLOOM3DMOD}/Bourns_PTV09A-4x30U-xxxx.stp" hide
+    (offset (xyz 0 0 6.4))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 -180 0))
   )
 )

@@ -30,7 +30,7 @@
   (pad "1" smd rect (at -2.07264 -1.07442 90) (size 0.6477 1.04902) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp e513714f-4716-48a7-bf2b-2b0f06e952fc))
   (pad "2" smd rect (at -2.07264 1.07442 90) (size 0.6477 1.04902) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 28778c1c-aabe-4c85-904b-84cf490781ae))
   (pad "2" smd rect (at 2.07264 1.07442 90) (size 0.6477 1.04902) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 2e6ea297-4f71-4020-89af-ee1d409bf826))
-  (model "${WINTERBLOOM3DMOD}/smt_tact.step"
+  (model "${WINTERBLOOM3DMOD}/Tactile_Switch_4.2mm.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

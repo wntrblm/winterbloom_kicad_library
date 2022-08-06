@@ -1,7 +1,7 @@
 (footprint "Tactile_Switch_6mm" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 628BF81D)
-  (descr "https://www.omron.com/ecb/products/pdf/en-b3f.pdf")
+  (descr "Through hole 6mm tactile switch")
   (tags "tact sw push 6mm")
   (attr through_hole)
   (fp_text reference "REF**" (at -0.00134 -0.05) (layer "F.Fab") hide
@@ -39,8 +39,13 @@
   (pad "1" thru_hole circle (at 3.25 -2.25 90) (size 2 2) (drill 1.1) (layers *.Cu *.Mask) (tstamp a824162b-b4dd-4d47-803e-8843b8f30173))
   (pad "2" thru_hole circle (at 3.25 2.25 90) (size 2 2) (drill 1.1) (layers *.Cu *.Mask) (tstamp 141de58a-9884-44fc-a8ae-7911995b048a))
   (pad "2" thru_hole circle (at -3.25 2.25 90) (size 2 2) (drill 1.1) (layers *.Cu *.Mask) (tstamp ffc78409-7923-4c8c-a958-84ee077ba741))
-  (model "${KISYS3DMOD}/Button_Switch_THT.3dshapes/SW_PUSH_6mm.wrl"
-    (offset (xyz -3.1 2.3 0.1))
+  (model "${WINTERBLOOM3DMOD}/E-Switch_TL1105TFxxxx.step"
+    (offset (xyz 0 0 1.8))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+  (model "${WINTERBLOOM3DMOD}/E-Switch_1Rxxx.step"
+    (offset (xyz 0 0 4))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
