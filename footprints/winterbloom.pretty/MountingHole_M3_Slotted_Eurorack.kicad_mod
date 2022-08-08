@@ -5,11 +5,11 @@
   (tags "mounting hole 3.2mm no annular m3")
   (attr exclude_from_pos_files exclude_from_bom)
   (fp_text reference " " (at 0 -2.7) (layer "F.Fab") hide
-    (effects (font (size 1 1) (thickness 0.15)))
+    (effects (font (size 0.7 0.7) (thickness 0.15)))
     (tstamp 08fc19db-5f0e-4c4b-886b-bfb52488832f)
   )
   (fp_text value " " (at 0 3) (layer "F.Fab") hide
-    (effects (font (size 1 1) (thickness 0.15)))
+    (effects (font (size 0.7 0.7) (thickness 0.15)))
     (tstamp 45ce533d-d65b-481b-a508-44407627fb3d)
   )
   (fp_line (start 0 0) (end 0 3) (layer "F.CrtYd") (width 0.12) (tstamp 191ce886-2945-4c99-b700-6997090b68d4))

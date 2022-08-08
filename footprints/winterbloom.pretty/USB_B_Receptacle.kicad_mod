@@ -5,11 +5,11 @@
   (tags "USB_B USB B vertical female connector")
   (attr through_hole)
   (fp_text reference "REF**" (at -5.16 -3.41) (layer "F.SilkS")
-    (effects (font (size 1 1) (thickness 0.15)))
+    (effects (font (size 0.7 0.7) (thickness 0.15)))
     (tstamp eb45ca84-9789-48f1-ab7e-c5b52ad6fa25)
   )
   (fp_text value "VAL**" (at -5.16 6.54) (layer "F.Fab") hide
-    (effects (font (size 1 1) (thickness 0.15)))
+    (effects (font (size 0.7 0.7) (thickness 0.15)))
     (tstamp 59e3df75-df0a-420d-b6ad-b82dc6214d9c)
   )
   (fp_line (start -1.2 -4.4) (end -0.7 -4.9) (layer "F.SilkS") (width 0.12) (tstamp 08842e5a-1667-4d05-989e-d154438e55ef))

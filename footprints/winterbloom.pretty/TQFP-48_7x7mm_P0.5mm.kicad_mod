@@ -5,7 +5,7 @@
   (tags "QFP 0.5")
   (attr smd)
   (fp_text reference "REF**" (at 0 -6) (layer "F.SilkS")
-    (effects (font (size 1 1) (thickness 0.15)))
+    (effects (font (size 0.7 0.7) (thickness 0.15)))
     (tstamp 6340d747-2dd8-4a99-9299-81ba6f72abfe)
   )
   (fp_text value "TQFP-48_7x7mm_P0.5mm" (at 0 6) (layer "F.Fab") hide

@@ -7,7 +7,7 @@
     (tstamp 00f03e55-65a9-4d14-9a32-002fd20d7ae4)
   )
   (fp_text value "Converter_DCDC_Murata_MYRGC" (at 0 2.8) (layer "F.Fab")
-    (effects (font (size 1 1) (thickness 0.15)))
+    (effects (font (size 0.7 0.7) (thickness 0.15)))
     (tstamp 02a15a7f-ea56-44fe-9d13-f489dc4e9a18)
   )
   (fp_poly (pts

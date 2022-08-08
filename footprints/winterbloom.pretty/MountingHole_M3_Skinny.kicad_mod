@@ -5,15 +5,15 @@
   (tags "mounting hole 3.2mm m3")
   (attr exclude_from_pos_files exclude_from_bom)
   (fp_text reference "H1" (at 0.01 -2.76) (layer "F.SilkS") hide
-    (effects (font (size 1 1) (thickness 0.15)))
+    (effects (font (size 0.7 0.7) (thickness 0.15)))
     (tstamp 09738ff3-44aa-4934-9d99-db218cd35ed6)
   )
   (fp_text value "M3" (at 0 2.76) (layer "F.Fab") hide
-    (effects (font (size 1 1) (thickness 0.15)))
+    (effects (font (size 0.7 0.7) (thickness 0.15)))
     (tstamp 44a24ea6-759f-458d-a6ac-93b7d32977ed)
   )
   (fp_text user "${REFERENCE}" (at 0.3 0) (layer "F.Fab") hide
-    (effects (font (size 1 1) (thickness 0.15)))
+    (effects (font (size 0.7 0.7) (thickness 0.15)))
     (tstamp 3f59b8ea-1141-4e31-9aba-e13a954bd8bf)
   )
   (pad "1" thru_hole circle (at 0 0) (size 4 4) (drill 3.2) (layers *.Cu *.Mask) (tstamp 4fc684a9-6814-493b-a5d3-d68725954748))

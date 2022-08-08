@@ -5,7 +5,7 @@
   (tags "switch DPDT footswitch")
   (attr through_hole)
   (fp_text reference "REF**" (at 0.06 0.01 180) (layer "F.Fab")
-    (effects (font (size 1 1) (thickness 0.15)))
+    (effects (font (size 0.7 0.7) (thickness 0.15)))
     (tstamp ab249b68-e7d5-4ac9-929e-fb27247c926d)
   )
   (fp_text value "VAL**" (at 0.01 -5.17) (layer "F.SilkS")

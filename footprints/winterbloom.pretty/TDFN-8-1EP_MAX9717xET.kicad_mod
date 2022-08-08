@@ -7,7 +7,7 @@
     (tstamp d5964c3c-94a1-4f46-b995-e63f00b0b874)
   )
   (fp_text value "TDFN-8-1EP_MAX9717xET" (at 0 0) (layer "F.Fab")
-    (effects (font (size 1 1) (thickness 0.15)))
+    (effects (font (size 0.7 0.7) (thickness 0.15)))
     (tstamp 10df4dce-a0b7-467b-a44d-149fa24d1a83)
   )
   (fp_line (start -1.6764 1.6764) (end 1.6764 1.6764) (layer "F.SilkS") (width 0.12) (tstamp 251331ad-f6d7-48ac-8ad2-187273a8a936))

@@ -8,7 +8,7 @@
     (tstamp 9a9f2d82-f64d-4264-8bec-c182528fc4de)
   )
   (fp_text value "Converter_DCDC_CUI_P78E-1000_THT" (at 2.54 3.3 unlocked) (layer "F.Fab")
-    (effects (font (size 1 1) (thickness 0.15)))
+    (effects (font (size 0.7 0.7) (thickness 0.15)))
     (tstamp b60c50d1-225e-415c-8712-7acb5e3dc8ea)
   )
   (fp_rect (start -3.26 -5.7) (end 8.34 2.3) (layer "F.SilkS") (width 0.12) (fill none) (tstamp 9702d639-3b1f-4825-8985-b32b9008503d))

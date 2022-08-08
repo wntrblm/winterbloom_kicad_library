@@ -5,7 +5,7 @@
   (tags "tact sw push 6mm")
   (attr through_hole)
   (fp_text reference "REF**" (at -0.00134 -0.05) (layer "F.Fab") hide
-    (effects (font (size 1 1) (thickness 0.15)))
+    (effects (font (size 0.7 0.7) (thickness 0.15)))
     (tstamp dbb4c741-38c7-408c-a0c1-2acdbea369f9)
   )
   (fp_text value "VAL**" (at 0 -3.88) (layer "F.SilkS")

@@ -5,7 +5,7 @@
   (tags "potentiometer vertical 9mm single")
   (attr through_hole)
   (fp_text reference "REF**" (at -2.525 -3.98) (layer "F.Fab")
-    (effects (font (size 1 1) (thickness 0.15)))
+    (effects (font (size 0.7 0.7) (thickness 0.15)))
     (tstamp fa3fbab5-3851-49b9-98cb-40eb6a343cdb)
   )
   (fp_text value "VAL**" (at 0.005 -5.72) (layer "F.SilkS")

@@ -3,7 +3,7 @@
   (tedit 628BF98C)
   (attr through_hole)
   (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.Fab")
-    (effects (font (size 1 1) (thickness 0.15)))
+    (effects (font (size 0.7 0.7) (thickness 0.15)))
     (tstamp bd29b6d3-a58c-4b1f-9c20-de4efb708ab2)
   )
   (fp_text value "VAL**" (at 0 1 unlocked) (layer "F.SilkS")

@@ -11,11 +11,11 @@
     (tstamp 4872458d-30e6-487a-b488-3546eca3380e)
   )
   (fp_text value "Eurorack_Power_2x8_Shrouded_Lock" (at 1.27 23.88 -180 unlocked) (layer "F.Fab") hide
-    (effects (font (size 1 1) (thickness 0.15)))
+    (effects (font (size 0.7 0.7) (thickness 0.15)))
     (tstamp ce5d6ff1-33a0-41fb-b7f4-3e5decfa04fd)
   )
   (fp_text user "RED STRIPE" (at 1.22 -6.207 unlocked) (layer "F.SilkS")
-    (effects (font (size 1 1) (thickness 0.15)))
+    (effects (font (size 0.7 0.7) (thickness 0.15)))
     (tstamp 70dcac3a-1cba-4e89-bf56-73a040dc3af4)
   )
   (fp_line (start -3.29 6.84) (end -1.98 6.84) (layer "F.SilkS") (width 0.12) (tstamp 1dc66a15-ae4f-4998-a51a-94143f1e4fb1))

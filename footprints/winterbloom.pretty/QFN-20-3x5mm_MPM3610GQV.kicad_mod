@@ -7,7 +7,7 @@
     (tstamp 7b35dc26-1381-466d-8b8b-177a6686160f)
   )
   (fp_text value "QFN-20-3x5mm_MPM3610GQV" (at 0 0) (layer "F.Fab")
-    (effects (font (size 1 1) (thickness 0.15)))
+    (effects (font (size 0.7 0.7) (thickness 0.15)))
     (tstamp 1d4642bf-3ad0-4749-a828-40b8d828b87f)
   )
   (fp_poly (pts

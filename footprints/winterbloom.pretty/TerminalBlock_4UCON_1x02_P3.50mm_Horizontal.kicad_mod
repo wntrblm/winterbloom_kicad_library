@@ -9,11 +9,11 @@
     (tstamp d93a62b8-35e1-4dcb-896f-564dbddc168f)
   )
   (fp_text value "TerminalBlock_4UCON_1x02_P3.50mm_Horizontal" (at 1.75 4.66) (layer "F.Fab") hide
-    (effects (font (size 1 1) (thickness 0.15)))
+    (effects (font (size 0.7 0.7) (thickness 0.15)))
     (tstamp cc69a8f1-1aee-4788-b067-c3b966200bef)
   )
   (fp_text user "${REFERENCE}" (at 2.5 3.6) (layer "F.Fab") hide
-    (effects (font (size 1 1) (thickness 0.15)))
+    (effects (font (size 0.7 0.7) (thickness 0.15)))
     (tstamp fd02d951-7746-4eac-86c2-67ffbb261ccf)
   )
   (fp_line (start -2.16 2.1) (end 5.66 2.1) (layer "F.SilkS") (width 0.12) (tstamp 31eef38d-aee4-4dbe-863f-a609fbaeca56))

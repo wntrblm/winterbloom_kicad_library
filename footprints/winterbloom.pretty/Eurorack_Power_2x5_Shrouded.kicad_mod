@@ -11,7 +11,7 @@
     (tstamp 97614934-d6c9-48bd-b021-9893c4020a03)
   )
   (fp_text user "RED STRIPE" (at -5.92 -1.387 90) (layer "F.SilkS")
-    (effects (font (size 1 1) (thickness 0.15)))
+    (effects (font (size 0.7 0.7) (thickness 0.15)))
     (tstamp a4d02390-6039-4cce-80cd-8007a5294933)
   )
   (fp_line (start 7.27964 1.60274) (end 7.27964 3.10134) (layer "F.SilkS") (width 0.2032) (tstamp 075820e8-2532-4587-a0bf-8c1c3158861a))

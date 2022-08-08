@@ -8,7 +8,7 @@
     (tstamp c32a121c-e7cb-47f2-a81a-22842dc2aed1)
   )
   (fp_text value "Fuse_Littelfuse_0805L" (at 0 -0.007) (layer "F.Fab")
-    (effects (font (size 1 1) (thickness 0.15)))
+    (effects (font (size 0.7 0.7) (thickness 0.15)))
     (tstamp ab695cc8-f45d-4e92-9025-c874ba715d11)
   )
   (fp_line (start 0.45 0.4) (end -0.45 0.4) (layer "F.SilkS") (width 0.12) (tstamp 0221b418-512e-425f-a6d8-ecbe68b5931b))
