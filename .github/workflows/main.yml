@@ -1,0 +1,29 @@
+name: kicad-lib-docs
+on:
+  push:
+    branches:
+      - master
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+      - name: symbols
+        uses: docker://alexanderbrevig/kicad-lib-docs:latest
+        with:
+          args: /kicad-lib-docs symbols "Winterbloom" symbols/winterbloom.kicad_sym symbols/winterbloom.md
+      - name: footprints
+        uses: docker://alexanderbrevig/kicad-lib-docs:latest
+        with:
+          args: /kicad-lib-docs footprints "Winterbloom" footprints/winterbloom.pretty footprints/winterbloom.md
+      - name: Commit md
+        if: github.event_name == 'push'
+        run: |
+          git config --global user.name "kicad-lib-docs"
+          git config --global user.email "kicad-lib-docs@users.noreply.github.com"
+          git add symbols/winterbloom.md
+          git add footprints/winterbloom.md
+          git commit -m "docs: kicad-lib-docs"
+          git push
