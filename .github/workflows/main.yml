@@ -2,7 +2,7 @@ name: kicad-lib-docs
 on:
   push:
     branches:
-      - master
+      - main
 permissions:
   contents: write
 jobs:
