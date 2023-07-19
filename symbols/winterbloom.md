@@ -20,7 +20,7 @@ Dotstar | https://www.alibaba.com/product-detail/High-Efficiency-SK9822-Similar-
 Eurorack_Mono_Jack | http://www.qingpu-electronics.com/en/products/WQP-PJ398SM-362.html | winterbloom:AudioJack_WQP518MA
 Eurorack_Mono_Jack_No_S | http://www.qingpu-electronics.com/en/products/WQP-PJ398SM-362.html | winterbloom:AudioJack_WQP518MA_No_S
 Eurorack_Pot | https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c2e29654-9937-4f21-ad37-19aeb30b6cf7/R0904N%28KQ%29-LWS.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210212%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210212T061200Z&X-Amz-Expires=86400&X-Amz-Signature=79cad3de6b24b7023aa449b148ed3570970ec3161da0e13127712a5cd74fcd34&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22R0904N%28KQ%29-LWS.pdf%22 | winterbloom:Potentiometer_Alpha_R0904N
-Eurorack_Power | https://static6.arrow.com/aropdfconversion/1507f1621f4e67855dd466ebb3ac550d52564a9d/32302-sxx1.pdf | winterbloom:Eurorack_Power_2x5_Shrouded
+Eurorack_Power | https://static6.arrow.com/aropdfconversion/1507f1621f4e67855dd466ebb3ac550d52564a9d/32302-sxx1.pdf | winterbloom:Eurorack_Power_2x5_Shrouded_Lock
 GD25Q64CWIGR | http://www.gigadevice.com/datasheet/gd25q64c/ | Package_SON:WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4mm
 LM1117-3.3 | http://www.ti.com/lit/ds/symlink/lm1117.pdf | Package_TO_SOT_SMD:SOT-223-3_TabPin2
 LM4040-10 | http://www.ti.com/lit/ds/symlink/lm4040-n.pdf | Package_TO_SOT_SMD:SOT-23
