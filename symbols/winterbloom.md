@@ -25,6 +25,7 @@ GD25Q64CWIGR | http://www.gigadevice.com/datasheet/gd25q64c/ | Package_SON:WSON-
 LM1117-3.3 | http://www.ti.com/lit/ds/symlink/lm1117.pdf | Package_TO_SOT_SMD:SOT-223-3_TabPin2
 LM4040-10 | http://www.ti.com/lit/ds/symlink/lm4040-n.pdf | Package_TO_SOT_SMD:SOT-23
 LM4040DBZ-10 | http://www.ti.com/lit/ds/symlink/lm4040-n.pdf | Package_TO_SOT_SMD:SOT-23
+LSM6DSO | https://www.st.com/resource/en/datasheet/lsm6dso.pdf | Package_LGA:LGA-14_3x2.5mm_P0.5mm_LayoutBorder3x4y
 MAX9717x | https://datasheets.maximintegrated.com/en/ds/MAX9716-MAX9717.pdf | winterbloom:TDFN-8-1EP_MAX9717xET
 MAX98357A | https://datasheets.maximintegrated.com/en/ds/MAX98357A-MAX98357B.pdf | Package_DFN_QFN:QFN-16-1EP_3x3mm_P0.5mm_EP1.45x1.45mm
 MCP4728 | http://ww1.microchip.com/downloads/en/DeviceDoc/22187E.pdf | Package_SO:MSOP-10_3x3mm_P0.5mm
@@ -54,6 +55,7 @@ Tag-Connect_SWD_TC2030 | https://www.tag-connect.com/product/tc2030-ctx-nl-6-pin
 USBLC6-2SC6 | https://www.st.com/resource/en/datasheet/usblc6-2.pdf | Package_TO_SOT_SMD:SOT-23-6
 USB_B_Micro_Receptacle | https://cdn.amphenol-cs.com/media/wysiwyg/files/documentation/datasheet/inputoutput/io_usb_micro.pdf | winterbloom:USB_B_Micro_Receptacle
 USB_B_Receptacle | https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=5787834&DocType=Customer+Drawing&DocLang=English&PartCntxt=5787834-1&DocFormat=pdf | winterbloom:USB_B_Receptacle
+USB_C_Receptacle_USB2.0 | https://www.usb.org/sites/default/files/documents/usb_type-c.zip | 
 VX7805-500 | https://www.mouser.com/datasheet/2/670/vx78_500-1774570.pdf | 
 W25Q128JVSIQ | https://www.winbond.com/resource-files/w25q128jv%20revf%2003272018%20plus.pdf | Package_SO:SOIC-8_5.23x5.23mm_P1.27mm
 XGZP6857D | https://www.cfsensor.com/static/upload/file/20220412/XGZP6857D%20Pressure%20Sensor%20Module%20V2.4.pdf | winterbloom:XGZP6857D
