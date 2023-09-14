@@ -73,9 +73,9 @@
     (stroke (width 0.1) (type solid)) (fill none) (layer "F.Fab") (tstamp 45261d25-0fd5-44b8-a889-ad311df0408a))
   (pad "" thru_hole oval (at -4.8 0 180) (size 2.5 4.5) (drill oval 1.1 3) (layers "*.Cu" "*.Mask") (tstamp b57dbac8-7f5f-4a52-825e-a61ea20e1cf5))
   (pad "" thru_hole oval (at 4.8 0 180) (size 2.5 4.5) (drill oval 1.1 3) (layers "*.Cu" "*.Mask") (tstamp a1b64ee5-bc2d-4121-bb80-762e6798d6b4))
-  (pad "1" thru_hole rect (at -2.5 7.5 180) (size 2 3) (drill 1) (layers "*.Cu" "*.Mask") (tstamp ad9a91c8-d399-469e-80a1-6b6c81a92830))
-  (pad "2" thru_hole oval (at 0 7.5 180) (size 2 3) (drill 1) (layers "*.Cu" "*.Mask") (tstamp 498137a2-d4c9-4a5b-afe4-22a02227ea4b))
-  (pad "3" thru_hole oval (at 2.5 7.5 180) (size 2 3) (drill 1) (layers "*.Cu" "*.Mask") (tstamp cdac4c11-89dc-4466-932d-c5f61617624b))
+  (pad "1" thru_hole rect (at -2.5 7.5 180) (size 1.8 3) (drill 1) (layers "*.Cu" "*.Mask") (tstamp ad9a91c8-d399-469e-80a1-6b6c81a92830))
+  (pad "2" thru_hole oval (at 0 7.5 180) (size 1.8 3) (drill 1) (layers "*.Cu" "*.Mask") (tstamp 498137a2-d4c9-4a5b-afe4-22a02227ea4b))
+  (pad "3" thru_hole oval (at 2.5 7.5 180) (size 1.8 3) (drill 1) (layers "*.Cu" "*.Mask") (tstamp cdac4c11-89dc-4466-932d-c5f61617624b))
   (model "${WINTERBLOOM3DMOD}/Alpha-RD901F-40-15R1.step"
     (offset (xyz 0 0 -0.5))
     (scale (xyz 1 1 1))
