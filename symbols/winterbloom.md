@@ -9,6 +9,7 @@ ADG1208 | https://www.analog.com/media/en/technical-documentation/data-sheets/AD
 ADG1209 | https://www.analog.com/media/en/technical-documentation/data-sheets/ADG1208_1209.pdf | Package_SO:TSSOP-16_4.4x5mm_P0.65mm
 ADG1308 | https://www.analog.com/media/en/technical-documentation/data-sheets/ADG1308_1309.pdf | Package_SO:TSSOP-16_4.4x5mm_P0.65mm
 ADG1309 | https://www.analog.com/media/en/technical-documentation/data-sheets/ADG1308_1309.pdf | Package_SO:TSSOP-16_4.4x5mm_P0.65mm
+APA102-2020_Dotstar | https://cdn-shop.adafruit.com/product-files/3341/3341_APA102-2020+SMD+LED.pdf | LED_SMD:LED-APA102-2020
 ATSAMD21G18A-A | http://ww1.microchip.com/downloads/en/DeviceDoc/SAM_D21_DA1_Family_Data%20Sheet_DS40001882E.pdf | winterbloom:TQFP-48_7x7mm_P0.5mm
 ATSAMD51J20A-M | https://ww1.microchip.com/downloads/en/DeviceDoc/SAM_D5x_E5x_Family_Data_Sheet_DS60001507G.pdf | Package_DFN_QFN:QFN-64-1EP_9x9mm_P0.5mm_EP3.8x3.8mm
 Conn_01x04_MountingPin2 | ~ | Connector_JST:JST_PH_S4B-PH-SM4-TB_1x04-1MP_P2.00mm_Horizontal

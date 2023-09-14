@@ -4,6 +4,8 @@ Footprint | Step
 ---|---
 AudioJack_WQP518MA | ${WINTERBLOOM3DMOD}/WQP-WQP518MA.step
 AudioJack_WQP518MA_Compact_S | ${WINTERBLOOM3DMOD}/WQP-WQP518MA.step
+AudioJack_WQP518MA_Compact_S_LongPads | ${WINTERBLOOM3DMOD}/WQP-WQP518MA.step
+AudioJack_WQP518MA_LongPads | ${WINTERBLOOM3DMOD}/WQP-WQP518MA.step
 AudioJack_WQP518MA_No_S | ${WINTERBLOOM3DMOD}/WQP-WQP518MA.step
 BarrelJack_CUI_PJ-102AH_Horizontal | ${WINTERBLOOM3DMOD}/CUI_DEVICES_PJ-102A.step
 C_0402_HandSolder | ${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl
@@ -24,6 +26,7 @@ D_SOD-123+SOD-123F | ${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl
 D_SOD-128 | ${WINTERBLOOM3DMOD}/SOD128.step
 D_SOD-323 | ${WINTERBLOOM3DMOD}/SOD323.step
 Eurorack_Power_2x5_Shrouded_Lock | ${WINTERBLOOM3DMOD}/Eurorack_Power_2x5.step
+Eurorack_Power_2x5_Shrouded_Lock_LongPads | ${WINTERBLOOM3DMOD}/Eurorack_Power_2x5.step
 Eurorack_Power_2x8_Shrouded_Lock | ${KICAD6_3DMODEL_DIR}/Connector_IDC.3dshapes/IDC-Header_2x08_P2.54mm_Vertical.wrl
 Fuse_Littelfuse_0805L | 
 JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal | ${WINTERBLOOM3DMOD}/JST-SH-SM04B-SRSS-TB.step
@@ -32,6 +35,7 @@ JST_XH_B4B-XH-AM_1x04_P2.50mm_Vertical | ${WINTERBLOOM3DMOD}/JST-XH-B4B-A.step
 Key_Switch_Cherry_MX_1.00u_PCB | ${WINTERBLOOM3DMOD}/Cherry_MX.step
 LED_0805_Kingbright_APT2012 | ${WINTERBLOOM3DMOD}/AP2012.wrl
 LED_APA102_Dotstar_5050 | ${WINTERBLOOM3DMOD}/APA102_5050.step
+LED_SK9822-EC20_Dotstar_2020 | 
 L_0402_HandSolder | ${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_0402_1005Metric.wrl
 L_0603_HandSolder | ${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_0603_1608Metric.wrl
 L_0805_HandSolder | ${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_0805_2012Metric.wrl
@@ -75,6 +79,7 @@ OSHW-Certification-Mark-Wide_9x45mm_CopperMask |
 OSHW-Certification-Mark-Wide_9x45mm_SilkMask | 
 OSHW-Certification-Mark-Wide_9x45mm_SilkScreen | 
 Potentiometer_Alpha_R0904N | ${WINTERBLOOM3DMOD}/Alpha-RD901F-40-15R1.step
+Potentiometer_Alpha_R0904N_LongPads | ${WINTERBLOOM3DMOD}/Alpha-RD901F-40-15R1.step
 Potentiometer_Bourns_PTA45x3-2x | ${WINTERBLOOM3DMOD}/Bourns_PTA4543.step
 QFN-20-3x5mm_MPM3610GQV | 
 RJ45_Amphenol_RJE45-188-1411_Vertical | ${WINTERBLOOM3DMOD}/Amphenol-RJE45-188-1xx1.step
