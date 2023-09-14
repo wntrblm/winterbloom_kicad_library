@@ -1,4 +1,4 @@
-(footprint "AudioJack_WQP518MA_No_S" (version 20221018) (generator pcbnew)
+(footprint "AudioJack_WQP518MA_Compact_S_LongPads" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (attr through_hole)
   (fp_text reference "REF**" (at -4.46 3.9) (layer "F.Fab") hide
@@ -55,8 +55,9 @@
     (stroke (width 0.12) (type solid)) (layer "F.Fab") (tstamp 89bed36c-366f-4efc-b4b8-3c93ac9bfa21))
   (fp_circle (center 0 0) (end 3.1 0)
     (stroke (width 0.127) (type solid)) (fill none) (layer "F.Fab") (tstamp f293cf2b-3435-448a-9eea-ea8bd1102501))
-  (pad "T" thru_hole circle (at 0 -5) (size 2 2) (drill 1.1) (layers "*.Cu" "*.Mask") (tstamp effbbcde-32da-405c-b9b1-418342a63129))
-  (pad "TN" thru_hole circle (at 0 3.5) (size 2 2) (drill 1.1) (layers "*.Cu" "*.Mask") (tstamp 03d16255-0ce6-43c4-af43-430ffec590be))
+  (pad "S" thru_hole oval (at 0 5.9) (size 3 2) (drill 1.1) (layers "*.Cu" "*.Mask") (tstamp 0cdf7f22-f6c0-4844-af5e-3930ee05e0fe))
+  (pad "T" thru_hole oval (at 0 -5) (size 3 2) (drill 1.1) (layers "*.Cu" "*.Mask") (tstamp effbbcde-32da-405c-b9b1-418342a63129))
+  (pad "TN" thru_hole oval (at 0 3.5) (size 3 2) (drill 1.1) (layers "*.Cu" "*.Mask") (tstamp 03d16255-0ce6-43c4-af43-430ffec590be))
   (zone (net 0) (net_name "") (layer "F.Cu") (tstamp 9dbe33fd-c0b4-417c-84f2-a8c664f3c385) (hatch edge 0.508)
     (connect_pads (clearance 0))
     (min_thickness 0.254) (filled_areas_thickness no)
