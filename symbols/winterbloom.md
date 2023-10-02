@@ -12,6 +12,7 @@ ADG1309 | https://www.analog.com/media/en/technical-documentation/data-sheets/AD
 APA102-2020_Dotstar | https://cdn-shop.adafruit.com/product-files/3341/3341_APA102-2020+SMD+LED.pdf | LED_SMD:LED-APA102-2020
 ATSAMD21G18A-A | http://ww1.microchip.com/downloads/en/DeviceDoc/SAM_D21_DA1_Family_Data%20Sheet_DS40001882E.pdf | winterbloom:TQFP-48_7x7mm_P0.5mm
 ATSAMD51J20A-M | https://ww1.microchip.com/downloads/en/DeviceDoc/SAM_D5x_E5x_Family_Data_Sheet_DS60001507G.pdf | Package_DFN_QFN:QFN-64-1EP_9x9mm_P0.5mm_EP3.8x3.8mm
+BCM847 | https://assets.nexperia.com/documents/data-sheet/BCM847BS.pdf | Package_TO_SOT_SMD:SOT-363_SC-70-6
 Conn_01x04_MountingPin2 | ~ | Connector_JST:JST_PH_S4B-PH-SM4-TB_1x04-1MP_P2.00mm_Horizontal
 Conn_SWD | http://infocenter.arm.com/help/topic/com.arm.doc.ddi0314h/DDI0314H_coresight_components_trm.pdf | winterbloom:Connector_Cortex_Debug_IDC_2x05_P1.27mm_Vertical_Shrouded_SMD
 Crystal_12MHz_4Pin | https://abracon.com/datasheets/ABM8G-106-12.000MHz-T.pdf | Crystal:Crystal_SMD_Abracon_ABM8G-4Pin_3.2x2.5mm
