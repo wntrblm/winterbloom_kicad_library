@@ -16,6 +16,7 @@ BCM847 | https://assets.nexperia.com/documents/data-sheet/BCM847BS.pdf | Package
 Conn_01x04_MountingPin2 | ~ | Connector_JST:JST_PH_S4B-PH-SM4-TB_1x04-1MP_P2.00mm_Horizontal
 Conn_SWD | http://infocenter.arm.com/help/topic/com.arm.doc.ddi0314h/DDI0314H_coresight_components_trm.pdf | winterbloom:Connector_Cortex_Debug_IDC_2x05_P1.27mm_Vertical_Shrouded_SMD
 Crystal_12MHz_4Pin | https://abracon.com/datasheets/ABM8G-106-12.000MHz-T.pdf | Crystal:Crystal_SMD_Abracon_ABM8G-4Pin_3.2x2.5mm
+DG449 | https://www.vishay.com/docs/73897/dg449.pdf | winterbloom:Vishay_SOT-23_8
 DRV103U | https://www.ti.com/lit/ds/symlink/drv103.pdf | Package_SO:SOIC-8_3.9x4.9mm_P1.27mm
 DRV120PWR | https://www.ti.com/lit/ds/symlink/drv120.pdf | Package_SO:TSSOP-8_4.4x3mm_P0.65mm
 Dotstar | https://www.alibaba.com/product-detail/High-Efficiency-SK9822-Similar-APA102-5050_62326807400.html | winterbloom:LED_APA102_Dotstar_5050
