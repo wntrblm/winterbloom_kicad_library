@@ -4,7 +4,7 @@ Symbol | Datasheet | Footprint
 ---|---|---
 74HC2G34 | [74HC2G34](https://assets.nexperia.com/documents/data-sheet/74HC_HCT2G34.pdf) | Package_TO_SOT_SMD:SOT-363_SC-70-6
 74LVC2G74 | [74LVC2G74](https://assets.nexperia.com/documents/data-sheet/74LVC2G74.pdf) | 
-AD5685RxRUZ | [AD5685RxRUZ](https://www.analog.com/media/en/technical-documentation/data-sheets/ad5686r_5685r_5684r.pdf) | Package_SO:TSSOP-16_4.4x5mm_P0.65mm
+AD5686RxRUZ | [AD5686RxRUZ](https://www.analog.com/media/en/technical-documentation/data-sheets/ad5686r_5685r_5684r.pdf) | Package_SO:TSSOP-16_4.4x5mm_P0.65mm
 ADG1208 | [ADG1208](https://www.analog.com/media/en/technical-documentation/data-sheets/ADG1208_1209.pdf) | Package_SO:TSSOP-16_4.4x5mm_P0.65mm
 ADG1209 | [ADG1209](https://www.analog.com/media/en/technical-documentation/data-sheets/ADG1208_1209.pdf) | Package_SO:TSSOP-16_4.4x5mm_P0.65mm
 ADG1308 | [ADG1308](https://www.analog.com/media/en/technical-documentation/data-sheets/ADG1308_1309.pdf) | Package_SO:TSSOP-16_4.4x5mm_P0.65mm
@@ -12,6 +12,7 @@ ADG1309 | [ADG1309](https://www.analog.com/media/en/technical-documentation/data
 APA102-2020_Dotstar | [APA102-2020_Dotstar](https://cdn-shop.adafruit.com/product-files/3341/3341_APA102-2020+SMD+LED.pdf) | LED_SMD:LED-APA102-2020
 ATSAMD21G18A-A | [ATSAMD21G18A-A](http://ww1.microchip.com/downloads/en/DeviceDoc/SAM_D21_DA1_Family_Data%20Sheet_DS40001882E.pdf) | winterbloom:TQFP-48_7x7mm_P0.5mm
 ATSAMD51J20A-M | [ATSAMD51J20A-M](https://ww1.microchip.com/downloads/en/DeviceDoc/SAM_D5x_E5x_Family_Data_Sheet_DS60001507G.pdf) | Package_DFN_QFN:QFN-64-1EP_9x9mm_P0.5mm_EP3.8x3.8mm
+ATSAMD51P20A-A | [ATSAMD51P20A-A](http://ww1.microchip.com/downloads/en/DeviceDoc/60001507E.pdf) | Package_QFP:TQFP-128_14x14mm_P0.4mm
 BCM847 | [BCM847](https://assets.nexperia.com/documents/data-sheet/BCM847BS.pdf) | Package_TO_SOT_SMD:SOT-363_SC-70-6
 Conn_01x04_MountingPin2 | [Conn_01x04_MountingPin2](~) | Connector_JST:JST_PH_S4B-PH-SM4-TB_1x04-1MP_P2.00mm_Horizontal
 Conn_SWD | [Conn_SWD](http://infocenter.arm.com/help/topic/com.arm.doc.ddi0314h/DDI0314H_coresight_components_trm.pdf) | winterbloom:Connector_Cortex_Debug_IDC_2x05_P1.27mm_Vertical_Shrouded_SMD
@@ -36,6 +37,7 @@ MCP6001-OT | [MCP6001-OT](http://ww1.microchip.com/downloads/en/DeviceDoc/22141b
 MCP6002 | [MCP6002](https://ww1.microchip.com/downloads/en/DeviceDoc/MCP6001-1R-1U-2-4-1-MHz-Low-Power-Op-Amp-DS20001733L.pdf) | Package_SO:MSOP-8_3x3mm_P0.65mm
 MCP6004 | [MCP6004](http://datasheet.octopart.com/MCP6001T-I/OT-Microchip-datasheet-8823409.pdf) | Package_SO:TSSOP-14_4.4x5mm_P0.65mm
 MIC5317 | [MIC5317](https://www.mouser.com/datasheet/2/268/MIC5317_High_Performance_Single_150mA_LDO_DS200061-1891237.pdf) | Package_TO_SOT_SMD:SOT-23-5
+MIC5319 | [MIC5319](https://ww1.microchip.com/downloads/en/DeviceDoc/500mA-uCap-Ultra-Low-Dropout-Regulator-with-High-PSRR-DS20005876B.pdf) | Package_TO_SOT_SMD:SOT-23-5
 MPM3610 | [MPM3610](https://www.monolithicpower.com/en/mpm3610.html) | 
 MUX508 | [MUX508](https://www.ti.com/lit/ds/symlink/mux508.pdf) | Package_SO:TSSOP-16_4.4x5mm_P0.65mm
 MUX509 | [MUX509](https://www.ti.com/lit/ds/symlink/mux509.pdf) | Package_SO:TSSOP-16_4.4x5mm_P0.65mm
@@ -47,6 +49,8 @@ PAM8302AAS | [PAM8302AAS](https://www.diodes.com/assets/Datasheets/PAM8302A.pdf)
 PCA9545 | [PCA9545](https://www.nxp.com/docs/en/data-sheet/PCA9545A_45B_45C.pdf) | Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm
 RP2040 | [RP2040](https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf) | winterbloom:RP2040-QFN-56
 SSM2604 | [SSM2604](https://www.analog.com/media/en/technical-documentation/data-sheets/SSM2604.pdf) | Package_CSP:LFCSP-20-1EP_4x4mm_P0.5mm_EP2.6x2.6mm
+Switch_3PDT | [Switch_3PDT](~) | 
+TC1044SxOA | [TC1044SxOA](http://ww1.microchip.com/downloads/en/DeviceDoc/21469a.pdf) | Package_SO:SOIC-8_3.9x4.9mm_P1.27mm
 TL074 | [TL074](https://www.ti.com/lit/ds/symlink/tl071.pdf) | Package_SO:TSSOP-14_4.4x5mm_P0.65mm
 TLV76733 | [TLV76733](https://www.ti.com/lit/ds/symlink/tlv767.pdf) | Package_SO:VSSOP-8_3.0x3.0mm_P0.65mm
 TMC2209 | [TMC2209]() | 

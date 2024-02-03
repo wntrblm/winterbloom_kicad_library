@@ -82,6 +82,7 @@ OSHW-Certification-Mark-Wide_9x45mm_SilkScreen | [OSHW-Certification-Mark-Wide_9
 Potentiometer_Alpha_R0904N | [Potentiometer_Alpha_R0904N](${WINTERBLOOM3DMOD}/Alpha-RD901F-40-15R1.step)
 Potentiometer_Alpha_R0904N_LongPads | [Potentiometer_Alpha_R0904N_LongPads](${WINTERBLOOM3DMOD}/Alpha-RD901F-40-15R1.step)
 Potentiometer_Bourns_PTA45x3-2x | [Potentiometer_Bourns_PTA45x3-2x](${WINTERBLOOM3DMOD}/Bourns_PTA4543.step)
+Potentiometer_Moog | [Potentiometer_Moog]()
 QFN-20-3x5mm_MPM3610GQV | [QFN-20-3x5mm_MPM3610GQV]()
 RJ45_Amphenol_RJE45-188-1411_Vertical | [RJ45_Amphenol_RJE45-188-1411_Vertical](${WINTERBLOOM3DMOD}/Amphenol-RJE45-188-1xx1.step)
 RP2040-QFN-56 | [RP2040-QFN-56](${WINTERBLOOM3DMOD}/RP2040.step)
