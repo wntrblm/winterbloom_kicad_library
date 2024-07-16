@@ -3,7 +3,9 @@
 Symbol | Datasheet | Footprint
 ---|---|---
 74HC2G34 | [74HC2G34](https://assets.nexperia.com/documents/data-sheet/74HC_HCT2G34.pdf) | Package_TO_SOT_SMD:SOT-363_SC-70-6
+74LVC1G04 | [74LVC1G04](https://www.ti.com/lit/ds/symlink/sn74lvc1g04.pdf) | Package_TO_SOT_SMD:SOT-23-5
 74LVC2G74 | [74LVC2G74](https://assets.nexperia.com/documents/data-sheet/74LVC2G74.pdf) | 
+8.0 | [8.0]() | 
 AD5686RxRUZ | [AD5686RxRUZ](https://www.analog.com/media/en/technical-documentation/data-sheets/ad5686r_5685r_5684r.pdf) | Package_SO:TSSOP-16_4.4x5mm_P0.65mm
 ADG1208 | [ADG1208](https://www.analog.com/media/en/technical-documentation/data-sheets/ADG1208_1209.pdf) | Package_SO:TSSOP-16_4.4x5mm_P0.65mm
 ADG1209 | [ADG1209](https://www.analog.com/media/en/technical-documentation/data-sheets/ADG1208_1209.pdf) | Package_SO:TSSOP-16_4.4x5mm_P0.65mm
@@ -27,10 +29,12 @@ Eurorack_Pot | [Eurorack_Pot](https://s3.us-west-2.amazonaws.com/secure.notion-s
 Eurorack_Power | [Eurorack_Power](https://static6.arrow.com/aropdfconversion/1507f1621f4e67855dd466ebb3ac550d52564a9d/32302-sxx1.pdf) | winterbloom:Eurorack_Power_2x5_Shrouded_Lock
 GD25Q64CWIGR | [GD25Q64CWIGR](http://www.gigadevice.com/datasheet/gd25q64c/) | Package_SON:WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4mm
 LM1117-3.3 | [LM1117-3.3](http://www.ti.com/lit/ds/symlink/lm1117.pdf) | Package_TO_SOT_SMD:SOT-223-3_TabPin2
+LM358PWR | [LM358PWR](https://www.ti.com/lit/ds/symlink/lm358.pdf) | Package_SO:TSSOP-8_4.4x3mm_P0.65mm
 LM4040-10 | [LM4040-10](http://www.ti.com/lit/ds/symlink/lm4040-n.pdf) | Package_TO_SOT_SMD:SOT-23
 LM4040DBZ-10 | [LM4040DBZ-10](http://www.ti.com/lit/ds/symlink/lm4040-n.pdf) | Package_TO_SOT_SMD:SOT-23
 LSM6DSO | [LSM6DSO](https://www.st.com/resource/en/datasheet/lsm6dso.pdf) | Package_LGA:LGA-14_3x2.5mm_P0.5mm_LayoutBorder3x4y
 MAX9717x | [MAX9717x](https://datasheets.maximintegrated.com/en/ds/MAX9716-MAX9717.pdf) | winterbloom:TDFN-8-1EP_MAX9717xET
+MAX97220C | [MAX97220C](https://www.mouser.com/datasheet/2/256/MAX97220A-MAX97220E-5002.pdf) | Package_DFN_QFN:TQFN-16-1EP_3x3mm_P0.5mm_EP1.23x1.23mm_ThermalVias
 MAX98357A | [MAX98357A](https://datasheets.maximintegrated.com/en/ds/MAX98357A-MAX98357B.pdf) | Package_DFN_QFN:QFN-16-1EP_3x3mm_P0.5mm_EP1.45x1.45mm
 MCP4728 | [MCP4728](http://ww1.microchip.com/downloads/en/DeviceDoc/22187E.pdf) | Package_SO:MSOP-10_3x3mm_P0.5mm
 MCP6001-OT | [MCP6001-OT](http://ww1.microchip.com/downloads/en/DeviceDoc/22141b.pdf) | Package_TO_SOT_SMD:SOT-23-5
@@ -63,6 +67,7 @@ USBLC6-2SC6 | [USBLC6-2SC6](https://www.st.com/resource/en/datasheet/usblc6-2.pd
 USB_B_Micro_Receptacle | [USB_B_Micro_Receptacle](https://cdn.amphenol-cs.com/media/wysiwyg/files/documentation/datasheet/inputoutput/io_usb_micro.pdf) | winterbloom:USB_B_Micro_Receptacle
 USB_B_Receptacle | [USB_B_Receptacle](https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=5787834&DocType=Customer+Drawing&DocLang=English&PartCntxt=5787834-1&DocFormat=pdf) | winterbloom:USB_B_Receptacle
 USB_C_Receptacle_USB2.0 | [USB_C_Receptacle_USB2.0](https://www.usb.org/sites/default/files/documents/usb_type-c.zip) | 
+V78E05-500-SMT | [V78E05-500-SMT](https://www.cui.com/product/resource/v78e-500-smt.pdf) | winterbloom:V78E05-500-SMT
 VX7805-500 | [VX7805-500](https://www.mouser.com/datasheet/2/670/vx78_500-1774570.pdf) | 
 W25Q128JVSIQ | [W25Q128JVSIQ](https://www.winbond.com/resource-files/w25q128jv%20revf%2003272018%20plus.pdf) | Package_SO:SOIC-8_5.23x5.23mm_P1.27mm
 XGZP6857D | [XGZP6857D](https://www.cfsensor.com/static/upload/file/20220412/XGZP6857D%20Pressure%20Sensor%20Module%20V2.4.pdf) | winterbloom:XGZP6857D
